@@ -1,6 +1,6 @@
 {
   "name": "@gauravnumber/h.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Minimal hyperscript-style DOM helper",
   "main": "h.js",
   "exports": {

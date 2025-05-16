@@ -1,0 +1,19 @@
+{
+  "name": "@gauravnumber/h.js",
+  "version": "1.0.0",
+  "description": "Minimal hyperscript-style DOM helper",
+  "main": "h.js",
+  "type": "module",
+  "keywords": [
+    "hyperscript",
+    "dom",
+    "vanilla-js",
+    "frontend"
+  ],
+  "author": "Gaurav",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gauravnumber/h.js"
+  }
+}

@@ -6,6 +6,9 @@
   "exports": {
     ".": "./h.js"
   },
+  "files": [
+    "h.js"
+  ],
   "type": "module",
   "keywords": [
     "hyperscript",

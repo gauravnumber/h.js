@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Minimal hyperscript-style DOM helper",
   "main": "h.js",
+  "exports": {
+    ".": "./h.js"
+  },
   "type": "module",
   "keywords": [
     "hyperscript",

@@ -38,3 +38,6 @@ const App = () =>
 
 document.body.appendChild(App());
 ```
+
+# Support my work
+<img src="support.jpg" alt="support" width="310" height="366"/>

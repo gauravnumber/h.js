@@ -39,5 +39,19 @@ const App = () =>
 document.body.appendChild(App());
 ```
 
-# Support my work
+## ⚛️ Built With h.js
+
+Check out **[HReact](https://github.com/gauravnumber/HReact/)** — a micro frontend framework built on top of `h.js`. It supports JSX, state management, and fine-grained reactivity—without the overhead of virtual DOM.
+
+Features:
+- JSX support via `h()` function
+- Minimalistic `useState` and `useEffect` for reactivity
+- Automatic UI updates using fine-grained re-rendering
+- Ultra-lightweight and easy to learn
+
+👉 [GitHub - HReact](https://github.com/gauravnumber/HReact/)
+
+## 💖 Support My Work
+
 <img src="support.jpg" alt="support" width="310" height="366"/>
+
